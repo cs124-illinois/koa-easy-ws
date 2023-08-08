@@ -1,6 +1,6 @@
 {
   "name": "koa-easy-ws",
-  "version": "2023.5.0",
+  "version": "2023.8.0",
   "description": "Simple Koa middleware for websocket handling",
   "main": "index.js",
   "types": "index.d.ts",
